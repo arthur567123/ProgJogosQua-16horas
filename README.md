@@ -44,3 +44,4 @@ Durante o desenvolvimento deste projeto, estou utilizando algumas tecnologias e 
 💻 Visual Studio Code — utilizado para editar os arquivos do projeto.
 
 🌐 Git — utilizado para controle de versão e gerenciamento das alterações.
+<img width="921" height="452" alt="28fe3fa2-0401-48c5-a741-e26ffadd3b74" src="https://github.com/user-attachments/assets/bd4c5860-c696-48aa-8b81-f550e2d52dc1" />
