@@ -1,4 +1,3 @@
-<img width="921" height="452" alt="28fe3fa2-0401-48c5-a741-e26ffadd3b74 (1)" src="https://github.com/user-attachments/assets/b1edf062-44a9-4d64-a158-33ce6c327acc" />
 # Prog Jogos 16h Qua
 ## Curso de programação de jogos modulo 2
 
@@ -34,8 +33,7 @@ Faço programação de jogos para aumentar meu currículo futuramente, e pretend
 
 🔀 Estruturas condicionais (if, else)
 
-🔁 Estruturas de repetição (for, while)<img width="921" height="452" alt="28fe3fa2-0401-48c5-a741-e26ffadd3b74 (1)" src="https://github.com/user-attachments/assets/7804af34-6d42-4ebb-8008-04b249e1cde6" />
-
+🔁 Estruturas de repetição (for, while)
 
 🛠️ Tecnologias e Ferramentas
 
