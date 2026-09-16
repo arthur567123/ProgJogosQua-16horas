@@ -29,6 +29,7 @@ lá podemos aprender melhor como funciona os códigos.
 Faço programação de jogos para aumentar meu currículo futuramente, e pretendo trabalhar nessa área de tecnologia 
 
 📚 Uma das que aprendi no 1º módulo
+
 🔢 Variáveis e tipos de dados
 
 🔀 Estruturas condicionais (if, else)
