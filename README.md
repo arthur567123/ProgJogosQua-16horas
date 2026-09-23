@@ -2,6 +2,7 @@
 ## Curso de programação de jogos modulo 2
 
 📚 O que aprendi no 1º módulo
+
 Durante o 1º módulo, aprendi conceitos importantes para o desenvolvimento de jogos e programação. Entre os principais conhecimentos adquiridos estão:
 
 🎮 Conceitos básicos de desenvolvimento de jogos;
