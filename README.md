@@ -1,51 +1,100 @@
-# Prog Jogos 16h Qua
-## Curso de programação de jogos modulo 2
+# ⚔️🧭 Meu Jogo — A Jornada Perdida
 
-📚 O que aprendi no 1º módulo
+> 🎮 **Projeto de criação de jogo 2D**
 
-Durante o 1º módulo, aprendi conceitos importantes para o desenvolvimento de jogos e programação. Entre os principais conhecimentos adquiridos estão:
+---
 
-🎮 Conceitos básicos de desenvolvimento de jogos;
+## 🕹️ Sobre o jogo
 
-💻 Fundamentos de programação;
+Meu jogo terá uma aventura onde o personagem precisa explorar um mundo cheio de desafios, inimigos e mistérios.
 
-🧩 Organização e estrutura de um projeto;
+Durante a aventura, será possível encontrar itens, desbloquear habilidades e enfrentar obstáculos até chegar ao final do jogo.
 
-🕹️ Criação e controle de personagens;
+---
 
-🎨 Utilização e organização de elementos visuais;
+## 🗺️ Matriz do jogo
 
-🔧 Noções de ferramentas utilizadas no desenvolvimento de jogos;
+| 🎯 Item                  | 💡 Ideia                                              |
+| ------------------------ | -----------------------------------------------------  |
+| **Nome**                 | ⚔️ A Jornada Perdida                                  |
+| **Dimensão**             | 🗺️ 2D — Top Down                                      |
+| **Gênero**               | 🧭 Aventura e RPG                                     |
+| **Cenário**              | 🌲 Florestas, vilas, cavernas e ruínas                |
+| **Época**                | 🏰 Época medieval/fantasia                            |
+| **Clima**                | 🌦️ Varia entre ensolarado, chuvoso e com tempestades  |
+| **Progressão**           | ⭐ Níveis, habilidades e itens                        |
+| **Personagem principal** | 🧙 Um aventureiro em busca de respostas               |
 
-🗂️ Organização de arquivos e pastas do projeto;
+---
 
-🌐 Utilização do GitHub para armazenar e acompanhar o desenvolvimento do projeto.
+## 📖 Lore
 
-Esses conhecimentos serviram como base para o desenvolvimento do projeto Vicente Zarek e para os próximos módulos do curso.
+Há muitos anos, um antigo artefato desapareceu e, desde então, o reino começou a sofrer com acontecimentos estranhos.
 
-Onde podemos praticar os códigos que aprendemos é no site:https://www.w3schools.com/git/
-lá podemos aprender melhor como funciona os códigos.
+O personagem recebe a missão de descobrir o que aconteceu e encontrar o artefato antes que ele caia nas mãos de pessoas perigosas.
 
-🎓 Sobre o curso
-Faço programação de jogos para aumentar meu currículo futuramente, e pretendo trabalhar nessa área de tecnologia 
+Durante a aventura, serão descobertos segredos sobre o reino e sobre o próprio personagem.
 
-📚 Uma das que aprendi no 1º módulo
+---
 
-🔢 Variáveis e tipos de dados
+## 🧭 A Grande Quest
 
-🔀 Estruturas condicionais (if, else)
+### 🎯 Objetivo principal
 
-🔁 Estruturas de repetição (for, while)
+Encontrar o **Artefato Perdido** e descobrir quem foi responsável pelo seu desaparecimento.
 
-🛠️ Tecnologias e Ferramentas
+- 🗺️ Explorar diferentes lugares;
+- ⚔️ Enfrentar inimigos;
+- 🎒 Encontrar itens;
+- ⭐ Melhorar as habilidades;
+- 👑 Enfrentar o desafio final.
 
-Durante o desenvolvimento deste projeto, estou utilizando algumas tecnologias e ferramentas para aprender, organizar e apresentar meu trabalho:
+---
 
-🐙 GitHub — utilizado para armazenar e compartilhar o projeto.
+## 📈 Progressão
 
-💻 Visual Studio Code — utilizado para editar os arquivos do projeto.
+O personagem poderá evoluir durante o jogo.
 
-🌐 Git — utilizado para controle de versão e gerenciamento das alterações.
+| ⭐ Progressão| 🔥 Como funciona                                                                |
+| ------------ | -----------------------------------------------------------                       |
+| Nível        | Ganha experiência matando inimigos e completando missões                          |
+| Habilidades  | Novas habilidades são desbloqueadas                                               |
+| Itens        | Armas de fogo, armas branca, poções e equipamentos podem ser encontrados          |
+| Exploração   | Novas partes do mapa são liberadas durante a aventura                             |
+| Escolhas     | Algumas decisões podem mudar partes da história                                   |
 
-<img width="921" height="452" alt="28fe3fa2-0401-48c5-a741-e26ffadd3b74" src="https://github.com/user-attachments/assets/bd4c5860-c696-48aa-8b81-f550e2d52dc1" />
-Assim fica os códigos dependendo do seu jogo ou exercício de aula
+---
+
+## ⚔️ Habilidades
+
+O personagem pode ter algumas habilidades:
+
+- 🗡️ **Ataque básico**
+- 💨 **Esquiva**
+- 🔥 **Ataque especial**
+- 🛡️ **Defesa**
+- ❤️ **Recuperação de vida**
+- ⚡ **Habilidade especial**
+
+---
+
+## 👥 Personagens
+
+| 👤 Personagem      | 📜 Função                                |
+| ------------------ | ---------------------------------------- |
+| 🧙 **Aventureiro** | Personagem principal                     |
+| 👴 **Ancião**      | Dá informações sobre a missão            |
+| 🧝 **Aliada**      | Ajuda durante algumas partes da aventura |
+| 👹 **Inimigos**    | Tentam impedir o jogador                 |
+| 👑 **Chefe final** | Principal desafio do jogo                |
+
+---
+
+## 🛠️ Tecnologias
+
+| 💻 Tecnologia                  | 📌 Utilização                       |
+| ------------------------------ | ----------------------------------- |
+| 🎮 Godot                       | Desenvolvimento do jogo             |
+| 💻 GDScript                    | Programação                         |
+| 🖼️ Aseprite/Editor de imagens  | Criação dos sprites                 |
+| 🐙 GitHub                      | Armazenamento e controle do projeto |
