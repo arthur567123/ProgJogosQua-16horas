@@ -81,11 +81,11 @@ O personagem pode ter algumas habilidades:
 ## 👥 Personagens
 
 | 👤 Personagem      | 📜 Função                                |
-| ------------------ | ---------------------------------------- |
+| ------------------ | ----------------------------------------  |
 | 🧙 **Aventureiro** | Personagem principal                     |
 | 👴 **Ancião**      | Dá informações sobre a missão            |
 | 🧝 **Aliada**      | Ajuda durante algumas partes da aventura |
-| 👹 **Inimigos**    | Tentam impedir o jogador                 |
+| 👹 **Inimigos**    | Tentam derrotar o jogador                |
 | 👑 **Chefe final** | Principal desafio do jogo                |
 
 ---
