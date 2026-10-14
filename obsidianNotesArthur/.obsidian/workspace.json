@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projetos/titulo_jogo.md",
+                "file": "projects/titulo_jogo.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,10 +188,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "349ae00dd2659c82",
+  "active": "b8d30fd7513377a7",
   "lastOpenFiles": [
-    "progJogosAulas/Git Gitub.md",
     "projetos/titulo_jogo.md",
+    "projects/titulo_jogo.md",
+    "progJogosAulas/github.md",
+    "progJogosAulas/Git Gitub.md",
     "projetos",
     "Bem-vindo.md",
     "progJogosAulas"
